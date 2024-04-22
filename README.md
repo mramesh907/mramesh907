@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mramesh907
+- 👋 Hi, I’m Ramesh Maity
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently studying BCA
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me maityramesh907@gmail.com
 
