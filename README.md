@@ -1,5 +1,4 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
-![mramesh907's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mramesh907&theme=github)
 <h1 align="center" style="color: #4CAF50; font-family: 'Arial', sans-serif;">
   👋 Hi, I'm Ramesh Maity 💻
 </h1>
