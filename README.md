@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Mystore-ECommerce**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **JS Backend,React Native**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **maityramesh907@gmail.com**
 
-- ⚡ Fun fact **I thick I am Serious**
+- ⚡ Fun fact **I think I am Serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
